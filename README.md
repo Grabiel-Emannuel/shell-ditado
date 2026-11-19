@@ -157,12 +157,10 @@ Os comandos acima usam a configuração padrão das imagens, adequada como ponto
 Clone o repositório depois de publicá-lo no GitHub:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/shell-ditado.git
+git clone https://github.com/Grabiel-Emannuel/shell-ditado.git
 cd shell-ditado
 chmod +x transcribe.sh transcribe-and-clean.sh
 ```
-
-Substitua `SEU-USUARIO` pelo proprietário real do repositório.
 
 ## 4. Utilização
 

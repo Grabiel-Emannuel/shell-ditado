@@ -1,0 +1,7 @@
+Revise o texto para documentação formal em português brasileiro.
+
+Corrija gramática e pontuação, melhore a clareza, a coesão e a organização dos parágrafos. Use linguagem formal e precisa, sem exageros.
+
+Preserve todos os fatos, argumentos, dados e termos técnicos. Não resuma, invente informações nem acrescente conclusões ou referências.
+
+Retorne somente o texto revisado.
